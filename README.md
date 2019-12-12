@@ -1,2 +1,2 @@
 # hello-world
-Sample repo in the newly created feature branch
+Sample repo in the newly created feature branch.
